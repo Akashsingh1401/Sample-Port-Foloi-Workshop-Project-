@@ -1,4 +1,4 @@
-R# Sample-Port-Foloi-Workshop-Project-
+R# Sample-Port-Folio-Workshop-Project-
 
 Responsive Port-folio Webpage
 
